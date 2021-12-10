@@ -48,9 +48,6 @@ def create_fingerprints(df):
     
     return fingerprints
     
-def create_poly(df):
-    pass
-    return
 
 if __name__ == "__main__":
     train = pd.read_csv("./datasets/dataset.csv", sep=",")
