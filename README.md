@@ -1,1 +1,1 @@
-# MI_academy
+# MI_challenge_course
